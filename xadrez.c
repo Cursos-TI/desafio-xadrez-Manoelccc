@@ -48,7 +48,7 @@ int main() {
     {
         printf("Esquerda\n");
         k++;
-    } while ("k < casasRainha");
+    } while (k < casasRainha);
     
 
     // Nível Aventureiro - Movimentação do Cavalo
